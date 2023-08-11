@@ -2,7 +2,7 @@
 
 Project Objective :
 1. Enhance the customer experience through comprehensive analysis of sales data.
-2. Drive revenue growth by implementing targeted strategies and optimizations.
+2. Drive revenue growth by implementing targeted strategies and optimizations for next year.
 
 Steps Involved : Source Data Understanding, Data Cleaning, Exploratory Data Analysis, Data Visualization
 
